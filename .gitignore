@@ -1,0 +1,20 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Spark
+spark-warehouse/
+metastore_db/
+derby.log
+
+# Data
+data/
+warehouse/
+
+# OS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
