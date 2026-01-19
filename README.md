@@ -170,3 +170,5 @@ It is intentionally designed to be **simple, readable, and production-oriented**
 Juan Enciso
 Senior Data Scientist / Data Analyst
 
+Tech: Python, PySpark, Apache Spark, Data Quality, ETL, GitHub Actions, pytest
+
