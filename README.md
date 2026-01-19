@@ -1,5 +1,11 @@
 # Journi Analytics Warehouse (SPARK)
 
+![CI](https://github.com/juanenciso/journi-analytics-warehouse/actions/workflows/ci.yml/badge.svg)
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Apache Spark](https://img.shields.io/badge/Spark-3.5-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+
 End-to-end **local analytics warehouse** built with **PySpark**, following a **Bronze → Silver** lakehouse pattern, including **data quality checks, automated tests**, and CI with **GitHub Actions**.
 
 This project simulates a real-world analytics setup where raw product, marketing, and user data is transformed into reliable, decision-ready datasets.
